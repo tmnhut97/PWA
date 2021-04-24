@@ -1,19 +1,19 @@
 {
-  "short_name": "THỜI TRANG NAM GIỚI",
-  "name": "THỜI TRANG NAM GIỚI",
+  "short_name": "KN SHOP",
+  "name": "KN SHOP",
   "icons": [
     {
-      "src": "../image/Logo.png",
+      "src": "../images/logo_knshop.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "../image/Logo.png",
+      "src": "../images/logo_knshop.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "../image/Logo.png",
+      "src": "../images/logo_knshop.png",
       "type": "image/png",
       "sizes": "512x512"
     }
