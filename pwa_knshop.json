@@ -3,17 +3,27 @@
   "name": "KN SHOP",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop.png",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop48x48.png",
+      "sizes": "48x48 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop.png",
+      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop.png",
+      "src": "https://raw.githubusercontent.com/tmnhut97/PWA/master/images/logo_knshop512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
